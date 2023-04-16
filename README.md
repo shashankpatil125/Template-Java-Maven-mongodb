@@ -1,4 +1,4 @@
-# A Java project with Mavel and MongoDB starter template on Gitpod
+# A Java project with Maven and MongoDB starter template on Gitpod
 
 This is a [Maven](https://maven.apache.org/guides) template to build a Java project with Maven configured for ephemeral cloud development environments on [Gitpod](https://www.gitpod.io/).
 
